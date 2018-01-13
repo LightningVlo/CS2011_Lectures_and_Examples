@@ -10,7 +10,7 @@ package lec01;
 public class ShowSyntaxErrors {
 	//           |--------------------Missing the keyword void. 
 	//           v
-	public static main(String[] args) {
-		System.out.println("Welcome to Java); //<--Missing closing quote.
-	}	
+//	public static main(String[] args) {
+//		System.out.println("Welcome to Java); //<--Missing closing quote.
+//	}
 }
